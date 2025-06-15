@@ -1,0 +1,12 @@
+# Firebase config
+firebase-config.js
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
